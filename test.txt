@@ -5,11 +5,5 @@ other dev
 balabala
 
 山中无老虎
-
-<<<<<<< HEAD
-
 啦啦啦啦
-=======
 猴子称霸王
-
->>>>>>> 121dc84aaf3a7749fdb5fef02f5b03fb10649da5
